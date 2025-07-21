@@ -1,0 +1,7 @@
+{
+  "name": "cdn-bariko",
+  "compatibility_date": "2025-07-21",
+  "assets": {
+    "directory": "./"
+  }
+}
